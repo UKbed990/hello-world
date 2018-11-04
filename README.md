@@ -1,2 +1,6 @@
 # hello-world
 for test only
+hi there!
+ali shariati speaking...
+i just joined to github!
+see you around...
